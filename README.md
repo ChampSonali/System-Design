@@ -1,3 +1,3 @@
 # System-Design
-## Index
-- [ ] [Starting point](#start)
+
+Resources and links to question
